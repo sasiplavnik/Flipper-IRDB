@@ -19,17 +19,17 @@ protocol: NECext
 address: A1 5E 00 00
 command: 9F 60 00 00
 #
-name: TAPE 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: 7F 80 00 00
 #
-name: TAPE 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: FF 00 00 00
 #
-name: TAPE 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: BF 40 00 00
@@ -39,7 +39,7 @@ protocol: NECext
 address: A1 5E 00 00
 command: 1F E0 00 00
 #
-name: TAPE 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: 3F C0 00 00
@@ -54,32 +54,32 @@ protocol: NECext
 address: A1 5E 00 00
 command: 0D F2 00 00
 #
-name: CD 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: 2F D0 00 00
 #
-name: CD 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: EF 10 00 00
 #
-name: CD 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: AF 50 00 00
 #
-name: CD 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: 4F B0 00 00
 #
-name: CD 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: 6F 90 00 00
 #
-name: CD 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: CF 30 00 00

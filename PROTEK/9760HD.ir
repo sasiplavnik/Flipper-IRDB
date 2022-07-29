@@ -14,7 +14,7 @@ protocol: NECext
 address: 44 44 00 00
 command: 13 EC 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 44 44 00 00
 command: 97 68 00 00
@@ -84,7 +84,7 @@ protocol: NECext
 address: 44 44 00 00
 command: BB 44 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 44 44 00 00
 command: 6F 90 00 00
@@ -94,7 +94,7 @@ protocol: NECext
 address: 44 44 00 00
 command: FB 04 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 44 44 00 00
 command: AF 50 00 00
@@ -104,7 +104,7 @@ protocol: NECext
 address: 44 44 00 00
 command: 77 88 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 44 44 00 00
 command: 9F 60 00 00
@@ -114,7 +114,7 @@ protocol: NECext
 address: 44 44 00 00
 command: 3B C4 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 44 44 00 00
 command: 1F E0 00 00

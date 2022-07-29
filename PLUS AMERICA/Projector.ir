@@ -74,7 +74,7 @@ protocol: NECext
 address: A8 61 00 00
 command: CD 32 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: A8 61 00 00
 command: 1D E2 00 00

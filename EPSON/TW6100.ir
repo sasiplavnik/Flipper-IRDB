@@ -89,7 +89,7 @@ protocol: NECext
 address: AA C1 00 00
 command: 65 9A 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: AA C1 00 00
 command: 4A B5 00 00

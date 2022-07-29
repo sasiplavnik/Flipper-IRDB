@@ -28,7 +28,7 @@ frequency: 40000
 duty_cycle: 0.33
 data: 2500 450 700 500 1300 500 700 500 1300 500 650 500 700 500 700 500 1300 500 1250 550 1250 500 700 500 700
 #
-name: 
+name: Unknown
 type: raw
 frequency: 40000
 duty_cycle: 0.33
@@ -40,7 +40,7 @@ frequency: 40000
 duty_cycle: 0.33
 data: 2500 450 1300 500 1300 500 650 550 1250 550 650 500 650 550 650 550 1250 550 1250 550 1200 550 700 500 650
 #
-name: 
+name: Unknown
 type: raw
 frequency: 40000
 duty_cycle: 0.33
@@ -52,7 +52,7 @@ frequency: 40000
 duty_cycle: 0.33
 data: 2550 450 1300 500 700 500 700 450 700 500 1300 500 700 500 1250 550 1250 500 1300 500 1250 550 650 550 650
 #
-name: 
+name: Unknown
 type: raw
 frequency: 40000
 duty_cycle: 0.33
@@ -64,7 +64,7 @@ frequency: 40000
 duty_cycle: 0.33
 data: 2500 450 700 500 1300 500 700 500 1250 500 1300 500 700 500 1250 550 1250 550 1250 500 1250 550 650 550 650
 #
-name: 
+name: Unknown
 type: raw
 frequency: 40000
 duty_cycle: 0.33

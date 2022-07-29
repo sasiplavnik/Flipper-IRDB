@@ -84,7 +84,7 @@ protocol: NEC
 address: 86 00 00 00
 command: A2 00 00 00
 #
-name: 
+name: Unknown
 protocol: NEC
 address: 86 00 00 00
 command: 05 00 00 00
@@ -94,7 +94,7 @@ protocol: NEC
 address: 86 00 00 00
 command: AA 00 00 00
 #
-name: 
+name: Unknown
 protocol: NEC
 address: 86 00 00 00
 command: 0B 00 00 00
@@ -104,7 +104,7 @@ protocol: NEC
 address: 86 00 00 00
 command: 0D 00 00 00
 #
-name: 
+name: Unknown
 protocol: NEC
 address: 86 00 00 00
 command: 0C 00 00 00
@@ -114,7 +114,7 @@ protocol: NEC
 address: 86 00 00 00
 command: A1 00 00 00
 #
-name: 
+name: Unknown
 protocol: NEC
 address: 86 00 00 00
 command: 06 00 00 00

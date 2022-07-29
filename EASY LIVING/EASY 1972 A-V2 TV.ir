@@ -9,7 +9,7 @@ protocol: NECext
 address: DF 00 00 00
 command: AF 50 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: DF 00 00 00
 command: 0F F0 00 00
@@ -99,7 +99,7 @@ protocol: NECext
 address: DF 00 00 00
 command: 07 F8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 00 00 00
 command: 2F D0 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: DF 00 00 00
 command: 57 A8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 00 00 00
 command: F7 08 00 00
@@ -119,7 +119,7 @@ protocol: NECext
 address: DF 00 00 00
 command: 4F B0 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 00 00 00
 command: 77 88 00 00
@@ -129,7 +129,7 @@ protocol: NECext
 address: DF 00 00 00
 command: 87 78 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 00 00 00
 command: 8F 70 00 00

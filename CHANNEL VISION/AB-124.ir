@@ -10,7 +10,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 815 815 815 815 1657 1657 815 815 815 815 815 815 815 815 1657 815 815 815 815 815 815 815 815 86329
 #
-name: 󿖁
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33

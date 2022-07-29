@@ -24,7 +24,7 @@ protocol: NECext
 address: 80 F7 00 00
 command: 37 C8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 80 F7 00 00
 command: 77 88 00 00
@@ -34,7 +34,7 @@ protocol: NECext
 address: 80 F7 00 00
 command: D7 28 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 80 F7 00 00
 command: D7 28 00 00
@@ -44,17 +44,17 @@ protocol: NECext
 address: 80 F7 00 00
 command: 57 A8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 80 F7 00 00
 command: 37 C8 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 80 F7 00 00
 command: EB 14 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 80 F7 00 00
 command: B7 48 00 00
@@ -79,12 +79,12 @@ protocol: NECext
 address: 80 F7 00 00
 command: 7D 82 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 80 F7 00 00
 command: BD 42 00 00
 #
-name:  PAIRING
+name: Unknown
 protocol: NECext
 address: 80 F7 00 00
 command: 3D C2 00 00

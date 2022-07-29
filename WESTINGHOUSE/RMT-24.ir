@@ -9,7 +9,7 @@ protocol: NECext
 address: BE 40 00 00
 command: 9D 62 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: BE 40 00 00
 command: CD 32 00 00

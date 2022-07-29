@@ -74,7 +74,7 @@ protocol: NECext
 address: EF 10 00 00
 command: A7 58 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: EF 10 00 00
 command: 97 68 00 00

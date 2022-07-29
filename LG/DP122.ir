@@ -54,7 +54,7 @@ protocol: NECext
 address: B4 B4 00 00
 command: 95 6A 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: 1D E2 00 00
@@ -64,7 +64,7 @@ protocol: NECext
 address: B4 B4 00 00
 command: E3 1C 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: 65 9A 00 00
@@ -74,17 +74,17 @@ protocol: NECext
 address: B4 B4 00 00
 command: E5 1A 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: A5 5A 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: 93 6C 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: ED 12 00 00
@@ -94,27 +94,27 @@ protocol: NECext
 address: B4 B4 00 00
 command: A3 5C 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: B3 4C 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: 73 8C 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: 33 CC 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: E3 1C 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: 63 9C 00 00

@@ -14,7 +14,7 @@ protocol: NECext
 address: CD 32 00 00
 command: B8 47 00 00
 #
-name:  OFF
+name: Unknown
 protocol: NECext
 address: CD 32 00 00
 command: D1 2E 00 00
@@ -64,12 +64,12 @@ protocol: NECext
 address: CD 32 00 00
 command: B4 4B 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: CD 32 00 00
 command: EE 11 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: CD 32 00 00
 command: EF 10 00 00
@@ -79,12 +79,12 @@ protocol: NECext
 address: CD 32 00 00
 command: F0 0F 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: CD 32 00 00
 command: ED 12 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: CD 32 00 00
 command: EB 14 00 00

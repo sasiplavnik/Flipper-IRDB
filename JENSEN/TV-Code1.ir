@@ -69,7 +69,7 @@ protocol: NECext
 address: 7E 01 00 00
 command: 77 88 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 7E 01 00 00
 command: A7 58 00 00

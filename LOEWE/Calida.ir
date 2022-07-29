@@ -130,7 +130,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 916 888 916 1776 916 888 916 888 916 888 916 888 1859 1776 1859 1776 1859 888 916 888 89417
 #
-name: 󿖁
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33

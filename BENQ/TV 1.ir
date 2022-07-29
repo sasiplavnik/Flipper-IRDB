@@ -9,7 +9,7 @@ protocol: NECext
 address: F9 06 00 00
 command: FF 00 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: F9 06 00 00
 command: 3D C2 00 00

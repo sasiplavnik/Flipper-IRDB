@@ -89,7 +89,7 @@ protocol: NECext
 address: FC 03 00 00
 command: 86 79 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: FC 03 00 00
 command: 0E F1 00 00

@@ -24,7 +24,7 @@ protocol: NECext
 address: 3E E1 00 00
 command: FC 03 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 3E E1 00 00
 command: BC 43 00 00
@@ -64,7 +64,7 @@ protocol: NECext
 address: 3E E1 00 00
 command: CE 31 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 3E E1 00 00
 command: D6 29 00 00

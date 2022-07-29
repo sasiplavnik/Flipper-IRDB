@@ -9,12 +9,12 @@ protocol: NECext
 address: B4 B4 00 00
 command: F3 0C 00 00
 #
-name:  ON
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: 51 AE 00 00
 #
-name:  OFF
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: 91 6E 00 00

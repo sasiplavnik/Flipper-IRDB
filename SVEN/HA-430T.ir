@@ -14,7 +14,7 @@ protocol: NECext
 address: 7D 82 00 00
 command: CF 30 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 7D 82 00 00
 command: C7 38 00 00

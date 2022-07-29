@@ -64,7 +64,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 220 420 200 320 320 240 140 561 200 240 200 320 160 220 320 320 160 661 160 94491
 #
-name: 
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33

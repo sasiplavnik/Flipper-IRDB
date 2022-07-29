@@ -64,7 +64,7 @@ protocol: NECext
 address: 88 C1 00 00
 command: 17 E8 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 88 C1 00 00
 command: E7 18 00 00

@@ -9,7 +9,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 17 E8 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 7F 80 00 00
 command: 7F 80 00 00
@@ -29,7 +29,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 95 6A 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 7F 80 00 00
 command: 65 9A 00 00

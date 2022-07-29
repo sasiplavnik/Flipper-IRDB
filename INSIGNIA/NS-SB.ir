@@ -9,7 +9,7 @@ protocol: NECext
 address: B7 A1 00 00
 command: EF 10 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: B7 A1 00 00
 command: A9 56 00 00
@@ -44,7 +44,7 @@ protocol: NECext
 address: B7 A1 00 00
 command: 11 EE 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: B7 A1 00 00
 command: D4 2B 00 00

@@ -119,12 +119,12 @@ protocol: NECext
 address: 80 1D 00 00
 command: D5 2A 00 00
 #
-name:  TUNE
+name: Unknown
 protocol: NECext
 address: 40 1D 00 00
 command: BF 40 00 00
 #
-name: TUNE 
+name: Unknown
 protocol: NECext
 address: 40 1D 00 00
 command: 3F C0 00 00
@@ -194,7 +194,7 @@ protocol: NECext
 address: 80 1D 00 00
 command: 54 AB 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 00 1D 00 00
 command: C6 39 00 00

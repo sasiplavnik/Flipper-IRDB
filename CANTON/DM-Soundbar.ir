@@ -29,7 +29,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 87 78 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: FF 00 00 00
 command: BF 40 00 00

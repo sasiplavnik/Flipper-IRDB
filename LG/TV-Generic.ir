@@ -9,12 +9,12 @@ protocol: NECext
 address: DF 20 00 00
 command: EF 10 00 00
 #
-name:  MEDIA
+name: Unknown
 protocol: NECext
 address: DF 20 00 00
 command: C1 3E 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 20 00 00
 command: 56 A9 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: DF 20 00 00
 command: 7F 80 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: DF 20 00 00
 command: 6F 90 00 00
@@ -149,7 +149,7 @@ protocol: NECext
 address: DF 20 00 00
 command: 3D C2 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 20 00 00
 command: FD 02 00 00
@@ -159,7 +159,7 @@ protocol: NECext
 address: DF 20 00 00
 command: 2A D5 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 20 00 00
 command: 1F E0 00 00
@@ -169,7 +169,7 @@ protocol: NECext
 address: DF 20 00 00
 command: DD 22 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 20 00 00
 command: 9F 60 00 00
@@ -179,7 +179,7 @@ protocol: NECext
 address: DF 20 00 00
 command: EB 14 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 20 00 00
 command: 7D 82 00 00
@@ -224,32 +224,32 @@ protocol: NECext
 address: DF 20 00 00
 command: 63 9C 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 20 00 00
 command: 72 8D 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 20 00 00
 command: F2 0D 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 20 00 00
 command: A2 5D 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 20 00 00
 command: 42 BD 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 20 00 00
 command: 0E F1 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: DF 20 00 00
 command: 8E 71 00 00

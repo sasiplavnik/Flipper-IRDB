@@ -14,12 +14,12 @@ protocol: NECext
 address: 10 EF 00 00
 command: 3D C2 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 10 EF 00 00
 command: DF 20 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 10 EF 00 00
 command: 1F E0 00 00
@@ -29,12 +29,12 @@ protocol: NECext
 address: 10 EF 00 00
 command: DD 22 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 10 EF 00 00
 command: 9F 60 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 10 EF 00 00
 command: 5F A0 00 00
@@ -69,27 +69,27 @@ protocol: NECext
 address: 10 EF 00 00
 command: BC 43 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 10 EF 00 00
 command: F2 0D 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 10 EF 00 00
 command: F2 0D 00 00
 #
-name:  
+name: Unknown
 protocol: NECext
 address: 10 EF 00 00
 command: 0E F1 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 10 EF 00 00
 command: 8E 71 00 00
 #
-name:  
+name: Unknown
 protocol: NECext
 address: 10 EF 00 00
 command: 8E 71 00 00

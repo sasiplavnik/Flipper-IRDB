@@ -10,7 +10,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1711 798 865 1656 1711 1654 1703 1660 1707 1656 1711 1652 1705 818 865
 #
-name: 
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -88,19 +88,19 @@ frequency: 38000
 duty_cycle: 0.33
 data: 863 818 865 816 867 816 1703 1660 1707 1656 1711 812 871 1652 867 814 869 812 871 810 873
 #
-name: 
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 871 810 863 820 863 818 1711 1652 1703 1660 869 812 1709 814 869 814 871 812 871 810 861
 #
-name: 󿖁
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 869 814 1705 1646 1711 1654 1703 1660 1707 816 867 1656 863 818 1711 1652 869
 #
-name: 
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -112,7 +112,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1711 1654 865 816 1703 1660 1705 1658 1707 1656 1711 1654 865 816 867 816 869
 #
-name: 
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -124,7 +124,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1709 800 861 1660 1707 1658 1709 1656 1711 812 871 1652 1703 820 865 818 865
 #
-name: 
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -136,25 +136,25 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1711 1654 865 816 1703 1660 1705 1658 873 810 1709 814 869 812 871 810 873 1650 869
 #
-name: 
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 863 820 1711 1640 1705 1660 1707 1656 863 820 865 818 1713 1652 1705 1660 871
 #
-name: 
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 863 818 865 816 867 816 1703 1660 1707 1658 863 820 863 818 1711 1652 867 814 1705
 #
-name: 
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 863 872 1657 1640 1705 1658 1707 1656 1709 1654 865 842 841 842 841 840 843 838 845
 #
-name: 
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33

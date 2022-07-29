@@ -9,7 +9,7 @@ protocol: NECext
 address: FE 01 00 00
 command: 3F C0 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FE 01 00 00
 command: BF 40 00 00
@@ -94,22 +94,22 @@ protocol: NECext
 address: FE 01 00 00
 command: E7 18 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FE 01 00 00
 command: D7 28 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FE 01 00 00
 command: DF 20 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FE 01 00 00
 command: EF 10 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FE 01 00 00
 command: C7 38 00 00
@@ -119,22 +119,22 @@ protocol: NECext
 address: FE 01 00 00
 command: CF 30 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FE 01 00 00
 command: FF 00 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FE 01 00 00
 command: F7 08 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FE 01 00 00
 command: 27 D8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FE 01 00 00
 command: 67 98 00 00
@@ -144,12 +144,12 @@ protocol: NECext
 address: FE 01 00 00
 command: A7 58 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FE 01 00 00
 command: 07 F8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FE 01 00 00
 command: 47 B8 00 00
@@ -159,7 +159,7 @@ protocol: NECext
 address: FE 01 00 00
 command: 87 78 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: FE 01 00 00
 command: C5 3A 00 00

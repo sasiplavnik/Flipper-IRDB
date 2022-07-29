@@ -144,7 +144,7 @@ protocol: NECext
 address: AD A2 00 00
 command: 1A E5 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: AD A2 00 00
 command: FE 01 00 00
@@ -154,7 +154,7 @@ protocol: NECext
 address: AD A2 00 00
 command: 27 D8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: AD A2 00 00
 command: 75 8A 00 00
@@ -164,7 +164,7 @@ protocol: NECext
 address: AD A2 00 00
 command: 7B 84 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: AD A2 00 00
 command: 4D B2 00 00
@@ -174,7 +174,7 @@ protocol: NECext
 address: AD A2 00 00
 command: F7 08 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: AD A2 00 00
 command: 7E 81 00 00

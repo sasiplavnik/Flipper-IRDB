@@ -19,7 +19,7 @@ protocol: NECext
 address: A1 5E 00 00
 command: 0F F0 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: 07 F8 00 00
@@ -104,47 +104,47 @@ protocol: NECext
 address: A1 5E 00 00
 command: C6 39 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: E6 19 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: A7 58 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: 66 99 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: 65 9A 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: C7 38 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: E5 1A 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: 35 CA 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: 27 D8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: A1 5E 00 00
 command: B5 4A 00 00

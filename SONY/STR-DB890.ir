@@ -118,7 +118,7 @@ frequency: 40000
 duty_cycle: 0.33
 data: 2304 576 576 576 1152 576 576 576 576 576 1152 576 576 576 576 576 1152 576 576 576 576 576 576 576 576
 #
-name: 󿖁
+name: Unknown
 type: raw
 frequency: 40000
 duty_cycle: 0.33

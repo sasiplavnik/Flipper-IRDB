@@ -44,7 +44,7 @@ protocol: RC6
 address: F3 3F 00 00
 command: DF 00 00 00
 #
-name: 
+name: Unknown
 protocol: RC6
 address: F3 3F 00 00
 command: A7 00 00 00
@@ -54,7 +54,7 @@ protocol: RC6
 address: F3 3F 00 00
 command: 7C 00 00 00
 #
-name: 
+name: Unknown
 protocol: RC6
 address: F3 3F 00 00
 command: A5 00 00 00
@@ -64,7 +64,7 @@ protocol: RC6
 address: F3 3F 00 00
 command: A3 00 00 00
 #
-name: 
+name: Unknown
 protocol: RC6
 address: F3 3F 00 00
 command: A4 00 00 00
@@ -74,7 +74,7 @@ protocol: RC6
 address: F3 3F 00 00
 command: DE 00 00 00
 #
-name: 
+name: Unknown
 protocol: RC6
 address: F3 3F 00 00
 command: A6 00 00 00

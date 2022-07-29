@@ -9,7 +9,7 @@ protocol: NECext
 address: FD 00 00 00
 command: 65 9A 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: FD 00 00 00
 command: 67 98 00 00
@@ -179,12 +179,12 @@ protocol: NECext
 address: FD 00 00 00
 command: DD 22 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FD 00 00 00
 command: DF 20 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FD 00 00 00
 command: 1F E0 00 00

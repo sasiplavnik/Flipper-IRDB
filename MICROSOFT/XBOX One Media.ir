@@ -59,7 +59,7 @@ protocol: NECext
 address: 1B 01 00 00
 command: F7 08 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 1B 01 00 00
 command: 8F 70 00 00

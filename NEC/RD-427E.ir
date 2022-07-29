@@ -64,17 +64,17 @@ protocol: NECext
 address: 97 18 00 00
 command: ED 12 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 97 18 00 00
 command: E2 1D 00 00
 #
-name: PG 
+name: Unknown
 protocol: NECext
 address: 97 18 00 00
 command: AB 54 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 97 18 00 00
 command: 82 7D 00 00
@@ -84,7 +84,7 @@ protocol: NECext
 address: 97 18 00 00
 command: 17 E8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 97 18 00 00
 command: A2 5D 00 00
@@ -94,12 +94,12 @@ protocol: NECext
 address: 97 18 00 00
 command: 6D 92 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 97 18 00 00
 command: C2 3D 00 00
 #
-name: PG 
+name: Unknown
 protocol: NECext
 address: 97 18 00 00
 command: 2B D4 00 00

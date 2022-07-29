@@ -69,22 +69,22 @@ protocol: NECext
 address: B4 B4 00 00
 command: DD 22 00 00
 #
-name:  SCAN
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: B3 4C 00 00
 #
-name: SCAN 
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: 33 CC 00 00
 #
-name:  SKIP
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: 53 AC 00 00
 #
-name: SKIP 
+name: Unknown
 protocol: NECext
 address: B4 B4 00 00
 command: D3 2C 00 00

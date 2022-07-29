@@ -74,7 +74,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 1F E0 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: FF 00 00 00
 command: 0F F0 00 00

@@ -14,12 +14,12 @@ protocol: NECext
 address: 30 6D 00 00
 command: 67 98 00 00
 #
-name: DVD 
+name: Unknown
 protocol: NECext
 address: 30 6D 00 00
 command: 76 89 00 00
 #
-name: RECV 
+name: Unknown
 protocol: NECext
 address: 00 1D 00 00
 command: 46 B9 00 00
@@ -124,12 +124,12 @@ protocol: NECext
 address: 00 1D 00 00
 command: 04 FB 00 00
 #
-name: MULTI CONTROL 
+name: Unknown
 protocol: NECext
 address: 80 1D 00 00
 command: D5 2A 00 00
 #
-name: MULTI CONTROL 
+name: Unknown
 protocol: NECext
 address: 80 1D 00 00
 command: 55 AA 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 30 6D 00 00
 command: 7C 83 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 30 6D 00 00
 command: 94 6B 00 00
@@ -154,7 +154,7 @@ protocol: NECext
 address: 00 1D 00 00
 command: 26 D9 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 30 6D 00 00
 command: E4 1B 00 00
@@ -164,7 +164,7 @@ protocol: NECext
 address: 30 6D 00 00
 command: 34 CB 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 30 6D 00 00
 command: 64 9B 00 00
@@ -174,7 +174,7 @@ protocol: NECext
 address: 30 6D 00 00
 command: DC 23 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 30 6D 00 00
 command: 14 EB 00 00
@@ -189,42 +189,42 @@ protocol: NECext
 address: 00 1D 00 00
 command: A6 59 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 30 6D 00 00
 command: B7 48 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 30 6D 00 00
 command: 37 C8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 30 6D 00 00
 command: 77 88 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 00 1D 00 00
 command: C6 39 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 30 6D 00 00
 command: 97 68 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 30 6D 00 00
 command: 17 E8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 30 6D 00 00
 command: D7 28 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 30 6D 00 00
 command: 57 A8 00 00

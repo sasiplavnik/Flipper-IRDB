@@ -259,7 +259,7 @@ protocol: NECext
 address: 5A A5 00 00
 command: C7 38 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 5A A5 00 00
 command: B7 48 00 00

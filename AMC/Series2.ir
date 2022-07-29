@@ -54,7 +54,7 @@ protocol: NECext
 address: 3F E0 00 00
 command: 64 9B 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 3F E0 00 00
 command: BE 41 00 00

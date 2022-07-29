@@ -29,7 +29,7 @@ protocol: NECext
 address: 76 00 00 00
 command: 55 AA 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 76 00 00 00
 command: EF 10 00 00
@@ -44,7 +44,7 @@ protocol: NECext
 address: 76 00 00 00
 command: 45 BA 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 76 00 00 00
 command: DD 22 00 00
@@ -54,7 +54,7 @@ protocol: NECext
 address: 76 00 00 00
 command: 75 8A 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 76 00 00 00
 command: CD 32 00 00
@@ -64,7 +64,7 @@ protocol: NECext
 address: 76 00 00 00
 command: AF 50 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 76 00 00 00
 command: FD 02 00 00
@@ -74,7 +74,7 @@ protocol: NECext
 address: 76 00 00 00
 command: 65 9A 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 76 00 00 00
 command: ED 12 00 00
@@ -164,32 +164,32 @@ protocol: NECext
 address: 76 00 00 00
 command: 0F F0 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 76 00 00 00
 command: BF 40 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 76 00 00 00
 command: 2F D0 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 76 00 00 00
 command: 4F B0 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 76 00 00 00
 command: FF 00 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 76 00 00 00
 command: BF 40 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 76 00 00 00
 command: 87 78 00 00

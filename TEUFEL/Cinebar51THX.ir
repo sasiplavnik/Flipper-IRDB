@@ -14,7 +14,7 @@ protocol: NECext
 address: BF 40 00 00
 command: 95 6A 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: BF 40 00 00
 command: D7 28 00 00
@@ -69,7 +69,7 @@ protocol: NECext
 address: BF 40 00 00
 command: 6F 90 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: BF 40 00 00
 command: EF 10 00 00

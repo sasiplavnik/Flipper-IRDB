@@ -29,7 +29,7 @@ protocol: NECext
 address: D6 61 00 00
 command: 37 C8 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: D6 61 00 00
 command: F7 08 00 00

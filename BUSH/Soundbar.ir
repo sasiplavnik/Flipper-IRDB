@@ -54,7 +54,7 @@ protocol: NECext
 address: DF 20 00 00
 command: 76 89 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: DF 20 00 00
 command: A6 59 00 00

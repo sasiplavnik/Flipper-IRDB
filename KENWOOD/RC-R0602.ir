@@ -199,7 +199,7 @@ protocol: NECext
 address: E2 1D 00 00
 command: 14 EB 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: E2 1D 00 00
 command: C6 39 00 00

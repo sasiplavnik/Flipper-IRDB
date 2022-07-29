@@ -24,7 +24,7 @@ protocol: NECext
 address: FF 00 00 00
 command: EC 13 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FF 00 00 00
 command: D4 2B 00 00
@@ -34,7 +34,7 @@ protocol: NECext
 address: FF 00 00 00
 command: B6 49 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FF 00 00 00
 command: D4 2B 00 00
@@ -44,7 +44,7 @@ protocol: NECext
 address: FF 00 00 00
 command: D4 2B 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FF 00 00 00
 command: D4 2B 00 00
@@ -54,7 +54,7 @@ protocol: NECext
 address: FF 00 00 00
 command: D4 2B 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FF 00 00 00
 command: D4 2B 00 00

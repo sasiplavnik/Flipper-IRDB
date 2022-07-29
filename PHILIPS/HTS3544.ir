@@ -94,7 +94,7 @@ protocol: RC6
 address: 77 00 00 00
 command: DE 1B 00 00
 #
-name:  
+name: Unknown
 protocol: RC6
 address: 77 00 00 00
 command: D3 1B 00 00
@@ -104,7 +104,7 @@ protocol: RC6
 address: 77 00 00 00
 command: DF 1B 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: RC6
 address: 77 00 00 00
 command: F2 0F 00 00

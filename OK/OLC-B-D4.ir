@@ -14,7 +14,7 @@ protocol: RC5
 address: 10 00 00 00
 command: 78 00 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: RC5
 address: 10 00 00 00
 command: 4D 00 00 00
@@ -99,7 +99,7 @@ protocol: RC5
 address: 10 00 00 00
 command: 60 00 00 00
 #
-name: 
+name: Unknown
 protocol: RC5
 address: 10 00 00 00
 command: 54 00 00 00
@@ -109,7 +109,7 @@ protocol: RC5
 address: 10 00 00 00
 command: 50 00 00 00
 #
-name: 
+name: Unknown
 protocol: RC5
 address: 10 00 00 00
 command: 55 00 00 00
@@ -119,7 +119,7 @@ protocol: RC5
 address: 10 00 00 00
 command: 75 00 00 00
 #
-name: 
+name: Unknown
 protocol: RC5
 address: 10 00 00 00
 command: 56 00 00 00
@@ -129,7 +129,7 @@ protocol: RC5
 address: 10 00 00 00
 command: 61 00 00 00
 #
-name: 
+name: Unknown
 protocol: RC5
 address: 10 00 00 00
 command: 53 00 00 00

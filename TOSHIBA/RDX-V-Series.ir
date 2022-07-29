@@ -9,7 +9,7 @@ protocol: NECext
 address: 3D A2 00 00
 command: B7 48 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 3D A2 00 00
 command: 34 CB 00 00
@@ -84,7 +84,7 @@ protocol: NECext
 address: 3D A2 00 00
 command: 27 D8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 3D A2 00 00
 command: FC 03 00 00
@@ -94,7 +94,7 @@ protocol: NECext
 address: 3D A2 00 00
 command: E7 18 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 3D A2 00 00
 command: CC 33 00 00
@@ -104,7 +104,7 @@ protocol: NECext
 address: 3D A2 00 00
 command: DD 22 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 3D A2 00 00
 command: DC 23 00 00
@@ -114,7 +114,7 @@ protocol: NECext
 address: 3D A2 00 00
 command: 74 8B 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 3D A2 00 00
 command: EC 13 00 00

@@ -24,7 +24,7 @@ protocol: NECext
 address: BF 80 00 00
 command: F4 0B 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: BF 80 00 00
 command: C6 39 00 00
@@ -69,7 +69,7 @@ protocol: NECext
 address: BF 80 00 00
 command: 7C 83 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: BF 80 00 00
 command: AC 53 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: BF 80 00 00
 command: AC 53 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: BF 80 00 00
 command: 66 99 00 00
@@ -89,7 +89,7 @@ protocol: NECext
 address: BF 80 00 00
 command: 8C 73 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: BF 80 00 00
 command: 7C 83 00 00
@@ -99,7 +99,7 @@ protocol: NECext
 address: BF 80 00 00
 command: 66 99 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: BF 80 00 00
 command: B4 4B 00 00

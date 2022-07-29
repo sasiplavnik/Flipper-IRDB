@@ -19,7 +19,7 @@ protocol: RC5
 address: 02 00 00 00
 command: 93 00 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: RC5
 address: 12 00 00 00
 command: 8D 00 00 00

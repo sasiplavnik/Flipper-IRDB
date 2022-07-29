@@ -9,7 +9,7 @@ protocol: RC5
 address: 11 00 00 00
 command: C1 00 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: RC5
 address: 11 00 00 00
 command: C0 00 00 00
@@ -104,12 +104,12 @@ protocol: RC5
 address: 11 00 00 00
 command: ED 00 00 00
 #
-name:  
+name: Unknown
 protocol: RC5
 address: 11 00 00 00
 command: F0 00 00 00
 #
-name: 
+name: Unknown
 protocol: RC5
 address: 11 00 00 00
 command: F3 00 00 00

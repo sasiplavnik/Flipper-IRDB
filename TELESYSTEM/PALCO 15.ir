@@ -88,7 +88,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1025 764 1039 765 1921 773 978 819 985 797 979 771 1003 823 981 1658 1014 792 1896 800 976 1687 984
 #
-name: 󿖁
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -106,7 +106,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 980 772 1003 764 1898 794 983 790 958 799 977 768 1009 791 956 1631 1898 790 958 790 957 771 978
 #
-name: 
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -118,7 +118,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1030 759 1923 790 985 766 980 791 990 799 984 789 986 1723 1915 790 985 794 1009 774 1002 771 1002
 #
-name: 
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -130,7 +130,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 972 814 960 818 1869 841 958 818 933 870 933 817 956 1692 954 820 1879 1684 1885 1680 995
 #
-name: 
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -142,7 +142,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1003 768 1919 790 1011 766 986 793 1013 790 986 800 1006 790 986 1685 1899 790 986 773 1003 1639 978
 #
-name: 
+name: Unknown
 type: raw
 frequency: 38000
 duty_cycle: 0.33

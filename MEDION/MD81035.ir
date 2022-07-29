@@ -54,7 +54,7 @@ protocol: NECext
 address: 96 E8 00 00
 command: B7 48 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 96 E8 00 00
 command: 97 68 00 00
@@ -69,7 +69,7 @@ protocol: NECext
 address: 96 E8 00 00
 command: 6D 92 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 96 E8 00 00
 command: DD 22 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 96 E8 00 00
 command: 75 8A 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 96 E8 00 00
 command: C7 38 00 00
@@ -89,7 +89,7 @@ protocol: NECext
 address: 96 E8 00 00
 command: C5 3A 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 96 E8 00 00
 command: ED 12 00 00
@@ -99,7 +99,7 @@ protocol: NECext
 address: 96 E8 00 00
 command: 3D C2 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 96 E8 00 00
 command: 47 B8 00 00

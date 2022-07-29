@@ -19,7 +19,7 @@ protocol: NECext
 address: 5E A1 00 00
 command: D8 27 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 5E A1 00 00
 command: 38 C7 00 00

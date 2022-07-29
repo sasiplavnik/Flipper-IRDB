@@ -14,7 +14,7 @@ protocol: NECext
 address: FB 04 00 00
 command: D7 28 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: FB 04 00 00
 command: 3F C0 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: FB 04 00 00
 command: 55 AA 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FB 04 00 00
 command: DD 22 00 00
@@ -134,7 +134,7 @@ protocol: NECext
 address: FB 04 00 00
 command: BF 40 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FB 04 00 00
 command: C7 38 00 00
@@ -144,7 +144,7 @@ protocol: NECext
 address: FB 04 00 00
 command: 9F 60 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FB 04 00 00
 command: ED 12 00 00
@@ -154,7 +154,7 @@ protocol: NECext
 address: FB 04 00 00
 command: 57 A8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: FB 04 00 00
 command: 47 B8 00 00

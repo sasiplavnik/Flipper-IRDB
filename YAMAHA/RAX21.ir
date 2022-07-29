@@ -39,17 +39,17 @@ protocol: NECext
 address: E1 1E 00 00
 command: 84 7B 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: E1 1E 00 00
 command: C7 38 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: E1 1E 00 00
 command: 27 D8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: E1 1E 00 00
 command: 6A 95 00 00
@@ -59,7 +59,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: B2 4D 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: E1 1E 00 00
 command: AA 55 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: 1F E0 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 01 FE 00 00
 command: D7 28 00 00
@@ -89,7 +89,7 @@ protocol: NECext
 address: 01 FE 00 00
 command: EE 11 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 01 FE 00 00
 command: 8F 70 00 00
@@ -114,7 +114,7 @@ protocol: NECext
 address: 01 FE 00 00
 command: C7 38 00 00
 #
-name:  / 
+name: Unknown
 protocol: NECext
 address: 01 FE 00 00
 command: 87 78 00 00
@@ -129,7 +129,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: 87 78 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: E1 1E 00 00
 command: 95 6A 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: DE 21 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: E1 1E 00 00
 command: 55 AA 00 00
@@ -164,7 +164,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: F5 0A 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: E1 1E 00 00
 command: C6 39 00 00

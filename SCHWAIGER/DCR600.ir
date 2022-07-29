@@ -14,7 +14,7 @@ protocol: NECext
 address: 37 02 00 00
 command: A7 58 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 37 02 00 00
 command: 0F F0 00 00
@@ -84,7 +84,7 @@ protocol: NECext
 address: 37 02 00 00
 command: 7D 82 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 37 02 00 00
 command: 2F D0 00 00
@@ -94,7 +94,7 @@ protocol: NECext
 address: 37 02 00 00
 command: 07 F8 00 00
 #
-name:  VOL
+name: Unknown
 protocol: NECext
 address: 37 02 00 00
 command: F7 08 00 00
@@ -104,7 +104,7 @@ protocol: NECext
 address: 37 02 00 00
 command: 4F B0 00 00
 #
-name: VOL 
+name: Unknown
 protocol: NECext
 address: 37 02 00 00
 command: 77 88 00 00
@@ -114,7 +114,7 @@ protocol: NECext
 address: 37 02 00 00
 command: FD 02 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 37 02 00 00
 command: 8F 70 00 00

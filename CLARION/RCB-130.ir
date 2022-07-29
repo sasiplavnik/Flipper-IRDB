@@ -9,27 +9,27 @@ protocol: NECext
 address: 06 61 00 00
 command: 3F C0 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 06 61 00 00
 command: 27 D8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 06 61 00 00
 command: 97 68 00 00
 #
-name:  
+name: Unknown
 protocol: NECext
 address: 06 61 00 00
 command: EF 10 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 06 61 00 00
 command: 17 E8 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 06 61 00 00
 command: 47 B8 00 00
@@ -39,7 +39,7 @@ protocol: NECext
 address: 06 61 00 00
 command: AF 50 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 06 61 00 00
 command: 5F A0 00 00

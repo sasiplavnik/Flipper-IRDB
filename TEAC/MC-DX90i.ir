@@ -99,7 +99,7 @@ protocol: NECext
 address: 81 81 00 00
 command: 2F D0 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 81 81 00 00
 command: 27 D8 00 00

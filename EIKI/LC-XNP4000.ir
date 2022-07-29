@@ -14,12 +14,12 @@ protocol: NECext
 address: 95 6A 00 00
 command: EE 11 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 95 6A 00 00
 command: EB 14 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 95 6A 00 00
 command: F0 0F 00 00
@@ -29,17 +29,17 @@ protocol: NECext
 address: 95 6A 00 00
 command: D8 27 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 95 6A 00 00
 command: F4 0B 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 95 6A 00 00
 command: E6 19 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 95 6A 00 00
 command: EC 13 00 00

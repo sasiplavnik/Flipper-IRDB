@@ -9,7 +9,7 @@ protocol: NECext
 address: 22 83 00 00
 command: 9E 61 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 22 83 00 00
 command: 84 7B 00 00
@@ -19,7 +19,7 @@ protocol: NECext
 address: 22 83 00 00
 command: 9D 62 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 22 83 00 00
 command: 78 87 00 00
@@ -29,17 +29,17 @@ protocol: NECext
 address: 22 83 00 00
 command: 7E 81 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 22 83 00 00
 command: 8A 75 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: NECext
 address: 22 83 00 00
 command: 91 6E 00 00
 #
-name: 
+name: Unknown
 protocol: NECext
 address: 22 83 00 00
 command: 72 8D 00 00

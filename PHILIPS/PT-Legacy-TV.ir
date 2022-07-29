@@ -24,7 +24,7 @@ protocol: RC5
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: 󿖁
+name: Unknown
 protocol: RC5
 address: 10 00 00 00
 command: 0D 00 00 00
