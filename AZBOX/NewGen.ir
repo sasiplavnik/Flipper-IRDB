@@ -189,7 +189,7 @@ protocol: NECext
 address: 40 40 00 00
 command: ED 12 00 00
 #
-name: Unknown
+name: USB
 protocol: NECext
 address: 40 40 00 00
 command: D5 2A 00 00

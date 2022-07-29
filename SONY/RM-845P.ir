@@ -214,7 +214,7 @@ frequency: 40000
 duty_cycle: 0.33
 data: 2463 570 1238 572 634 572 1238 572 634 572 634 572 1238 572 1238 572 1238 572 634 572 634 572 634 572 634
 #
-name: Unknown
+name: PLAYER
 type: raw
 frequency: 40000
 duty_cycle: 0.33

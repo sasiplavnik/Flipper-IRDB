@@ -79,7 +79,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 47 B8 00 00
 #
-name: Unknown
+name: iPOD
 protocol: NECext
 address: FF 00 00 00
 command: F7 08 00 00
@@ -89,7 +89,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 6F 90 00 00
 #
-name: Unknown
+name: REW
 protocol: NECext
 address: FF 00 00 00
 command: B7 48 00 00
@@ -99,7 +99,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 8F 70 00 00
 #
-name: Unknown
+name: FWD
 protocol: NECext
 address: FF 00 00 00
 command: 37 C8 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 27 D8 00 00
 #
-name: Unknown
+name: iPOD
 protocol: NECext
 address: FF 00 00 00
 command: 77 88 00 00

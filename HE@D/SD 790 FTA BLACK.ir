@@ -94,7 +94,7 @@ protocol: NECext
 address: 9F 00 00 00
 command: 27 D8 00 00
 #
-name: Unknown
+name: VOL
 protocol: NECext
 address: 9F 00 00 00
 command: 3F C0 00 00
@@ -104,7 +104,7 @@ protocol: NECext
 address: 9F 00 00 00
 command: 07 F8 00 00
 #
-name: Unknown
+name: VOL
 protocol: NECext
 address: 9F 00 00 00
 command: BF 40 00 00

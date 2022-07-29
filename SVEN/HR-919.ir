@@ -59,12 +59,12 @@ protocol: NECext
 address: FB 04 00 00
 command: 37 C8 00 00
 #
-name: Unknown
+name: TREBLE
 protocol: NECext
 address: FB 04 00 00
 command: ED 12 00 00
 #
-name: Unknown
+name: BASS
 protocol: NECext
 address: FB 04 00 00
 command: 0D F2 00 00
@@ -74,12 +74,12 @@ protocol: NECext
 address: FB 04 00 00
 command: BF 40 00 00
 #
-name: Unknown
+name: TREBLE
 protocol: NECext
 address: FB 04 00 00
 command: 6D 92 00 00
 #
-name: Unknown
+name: BASS
 protocol: NECext
 address: FB 04 00 00
 command: 05 FA 00 00

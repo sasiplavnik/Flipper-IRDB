@@ -69,7 +69,7 @@ protocol: NECext
 address: C3 3C 00 00
 command: 7F 80 00 00
 #
-name: Unknown
+name: /
 protocol: NECext
 address: C3 3C 00 00
 command: 9F 60 00 00

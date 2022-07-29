@@ -79,7 +79,7 @@ protocol: NECext
 address: 00 FF 00 00
 command: 57 A8 00 00
 #
-name: Unknown
+name: CH
 protocol: NECext
 address: 00 FF 00 00
 command: 85 7A 00 00
@@ -89,7 +89,7 @@ protocol: NECext
 address: 00 FF 00 00
 command: 97 68 00 00
 #
-name: Unknown
+name: VOL
 protocol: NECext
 address: 00 FF 00 00
 command: 87 78 00 00
@@ -99,7 +99,7 @@ protocol: NECext
 address: 00 FF 00 00
 command: 07 F8 00 00
 #
-name: Unknown
+name: VOL
 protocol: NECext
 address: 00 FF 00 00
 command: C5 3A 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 00 FF 00 00
 command: 45 BA 00 00
 #
-name: Unknown
+name: CH
 protocol: NECext
 address: 00 FF 00 00
 command: 27 D8 00 00

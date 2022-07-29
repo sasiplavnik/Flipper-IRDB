@@ -209,7 +209,7 @@ protocol: NECext
 address: FD 00 00 00
 command: FD 02 00 00
 #
-name: Unknown
+name: /
 protocol: NECext
 address: FD 00 00 00
 command: FF 00 00 00

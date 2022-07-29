@@ -79,7 +79,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: AD 52 00 00
 #
-name: Unknown
+name: CH
 protocol: NECext
 address: 7F 80 00 00
 command: 3F C0 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 6D 92 00 00
 #
-name: Unknown
+name: CH
 protocol: NECext
 address: 7F 80 00 00
 command: 1F E0 00 00

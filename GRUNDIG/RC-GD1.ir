@@ -109,7 +109,7 @@ protocol: RC5
 address: 18 00 00 00
 command: 21 00 00 00
 #
-name: Unknown
+name: DOUBLE
 protocol: RC5
 address: 18 00 00 00
 command: 2D 00 00 00
@@ -174,12 +174,12 @@ protocol: RC5
 address: 18 00 00 00
 command: 34 00 00 00
 #
-name: Unknown
+name: TXT
 protocol: RC5
 address: 18 00 00 00
 command: 3C 00 00 00
 #
-name: Unknown
+name: R
 protocol: RC5
 address: 18 00 00 00
 command: 29 00 00 00

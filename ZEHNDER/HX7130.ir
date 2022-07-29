@@ -89,7 +89,7 @@ protocol: NECext
 address: FF 01 00 00
 command: 87 78 00 00
 #
-name: Unknown
+name: PR
 protocol: NECext
 address: FF 01 00 00
 command: FD 02 00 00

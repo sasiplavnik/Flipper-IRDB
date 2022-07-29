@@ -129,7 +129,7 @@ protocol: NECext
 address: C0 4B 00 00
 command: 47 B8 00 00
 #
-name: Unknown
+name: Tuning
 protocol: NECext
 address: C0 4B 00 00
 command: 2E D1 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: C0 4B 00 00
 command: C7 38 00 00
 #
-name: Unknown
+name: Tuning
 protocol: NECext
 address: C0 4B 00 00
 command: AE 51 00 00

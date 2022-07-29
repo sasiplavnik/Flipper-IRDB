@@ -119,22 +119,22 @@ protocol: NECext
 address: B6 4B 00 00
 command: 6F 90 00 00
 #
-name: Unknown
+name: VIDEO
 protocol: NECext
 address: 36 4B 00 00
 command: 47 B8 00 00
 #
-name: Unknown
+name: VIDEO
 protocol: NECext
 address: 36 4B 00 00
 command: C7 38 00 00
 #
-name: Unknown
+name: AUDIO
 protocol: NECext
 address: 36 4B 00 00
 command: 27 D8 00 00
 #
-name: Unknown
+name: AUDIO
 protocol: NECext
 address: 36 4B 00 00
 command: A7 58 00 00

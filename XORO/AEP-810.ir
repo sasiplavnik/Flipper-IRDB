@@ -189,12 +189,12 @@ protocol: NECext
 address: 9F 60 00 00
 command: FD 02 00 00
 #
-name: Unknown
+name: STEP
 protocol: NECext
 address: 9F 60 00 00
 command: 1F E0 00 00
 #
-name: Unknown
+name: RETURN
 protocol: NECext
 address: 9F 60 00 00
 command: 17 E8 00 00

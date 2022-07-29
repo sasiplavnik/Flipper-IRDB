@@ -139,27 +139,27 @@ protocol: NECext
 address: E1 1E 00 00
 command: 4F B0 00 00
 #
-name: Unknown
+name: CD
 protocol: NECext
 address: E1 1E 00 00
 command: DF 20 00 00
 #
-name: Unknown
+name: CD
 protocol: NECext
 address: E1 1E 00 00
 command: 3F C0 00 00
 #
-name: Unknown
+name: CD
 protocol: NECext
 address: E1 1E 00 00
 command: 7F 80 00 00
 #
-name: Unknown
+name: CD
 protocol: NECext
 address: E1 1E 00 00
 command: BF 40 00 00
 #
-name: Unknown
+name: TAPE
 protocol: NECext
 address: E1 1E 00 00
 command: 3D C2 00 00
@@ -169,7 +169,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: 55 AA 00 00
 #
-name: Unknown
+name: TAPE
 protocol: NECext
 address: E1 1E 00 00
 command: BD 42 00 00
@@ -189,7 +189,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: E5 1A 00 00
 #
-name: Unknown
+name: TAPE
 protocol: NECext
 address: E1 1E 00 00
 command: 5D A2 00 00
@@ -199,12 +199,12 @@ protocol: NECext
 address: E1 1E 00 00
 command: 95 6A 00 00
 #
-name: Unknown
+name: TAPE
 protocol: NECext
 address: E1 1E 00 00
 command: DD 22 00 00
 #
-name: Unknown
+name: TAPE
 protocol: NECext
 address: E1 1E 00 00
 command: 7D 82 00 00

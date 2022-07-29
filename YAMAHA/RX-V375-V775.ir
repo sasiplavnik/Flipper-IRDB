@@ -9,7 +9,7 @@ protocol: NECext
 address: 81 7E 00 00
 command: AB 54 00 00
 #
-name: Unknown
+name: SRC
 protocol: NECext
 address: 80 FE 00 00
 command: F5 0A 00 00

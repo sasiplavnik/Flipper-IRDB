@@ -214,7 +214,7 @@ protocol: NECext
 address: FF 00 00 00
 command: F6 09 00 00
 #
-name: Unknown
+name: /
 protocol: NECext
 address: FF 00 00 00
 command: 16 E9 00 00

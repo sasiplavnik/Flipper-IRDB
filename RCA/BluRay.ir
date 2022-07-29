@@ -189,7 +189,7 @@ protocol: NECext
 address: A6 59 00 00
 command: 27 D8 00 00
 #
-name: Unknown
+name: SLOW
 protocol: NECext
 address: A6 59 00 00
 command: A7 58 00 00

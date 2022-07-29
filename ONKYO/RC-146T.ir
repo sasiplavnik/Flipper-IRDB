@@ -9,7 +9,7 @@ protocol: NECext
 address: B0 4B 00 00
 command: 27 D8 00 00
 #
-name: Unknown
+name: /
 protocol: NECext
 address: B0 4B 00 00
 command: E7 18 00 00

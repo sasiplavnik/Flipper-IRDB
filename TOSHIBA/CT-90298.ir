@@ -94,12 +94,12 @@ protocol: NECext
 address: FD 02 00 00
 command: 3D C2 00 00
 #
-name: Unknown
+name: /P+
 protocol: NECext
 address: FD 02 00 00
 command: 27 D8 00 00
 #
-name: Unknown
+name: /VOL-
 protocol: NECext
 address: FD 02 00 00
 command: 87 78 00 00
@@ -109,12 +109,12 @@ protocol: NECext
 address: FD 02 00 00
 command: 7B 84 00 00
 #
-name: Unknown
+name: VOL+/
 protocol: NECext
 address: FD 02 00 00
 command: A7 58 00 00
 #
-name: Unknown
+name: /P-
 protocol: NECext
 address: FD 02 00 00
 command: 07 F8 00 00

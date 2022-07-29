@@ -172,7 +172,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 2409 602 1204 602 602 602 602 602 602 602 1204 602 602 602 1204 602 1204 602 1204 602 602 602 1204 602 602 24688
 #
-name: Unknown
+name: CURSOR
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -184,13 +184,13 @@ frequency: 38000
 duty_cycle: 0.33
 data: 2409 602 1204 602 1204 602 1204 602 602 602 1204 602 602 602 602 602 1204 602 1204 602 602 602 1204 602 602 24086
 #
-name: Unknown
+name: CURSOR
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 2409 602 602 602 1204 602 602 602 602 602 602 602 1204 602 1204 602 1204 602 1204 602 602 602 1204 602 602 24688
 #
-name: Unknown
+name: CURSOR
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -202,7 +202,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 2409 602 1204 602 602 602 1204 602 1204 602 602 602 602 602 1204 602 1204 602 1204 602 602 602 1204 602 602 24086
 #
-name: Unknown
+name: CURSOR
 type: raw
 frequency: 38000
 duty_cycle: 0.33

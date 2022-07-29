@@ -109,7 +109,7 @@ protocol: NECext
 address: 9F 40 00 00
 command: F7 08 00 00
 #
-name: Unknown
+name: PLAYLIST
 protocol: NECext
 address: 9F 40 00 00
 command: FD 02 00 00
@@ -199,7 +199,7 @@ protocol: NECext
 address: 9F 40 00 00
 command: AD 52 00 00
 #
-name: Unknown
+name: ?
 protocol: NECext
 address: 9F 40 00 00
 command: 6D 92 00 00

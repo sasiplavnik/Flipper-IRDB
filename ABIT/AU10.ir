@@ -169,7 +169,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: CD 32 00 00
 #
-name: Unknown
+name: +
 protocol: NECext
 address: 7F 80 00 00
 command: 8F 70 00 00
@@ -179,7 +179,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 4D B2 00 00
 #
-name: Unknown
+name: -
 protocol: NECext
 address: 7F 80 00 00
 command: B7 48 00 00

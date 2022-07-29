@@ -79,7 +79,7 @@ protocol: NECext
 address: FC 03 00 00
 command: B6 49 00 00
 #
-name: Unknown
+name: CH
 protocol: NECext
 address: FC 03 00 00
 command: CE 31 00 00
@@ -89,7 +89,7 @@ protocol: NECext
 address: FC 03 00 00
 command: C6 39 00 00
 #
-name: Unknown
+name: VOL
 protocol: NECext
 address: FC 03 00 00
 command: 6E 91 00 00
@@ -99,7 +99,7 @@ protocol: NECext
 address: FC 03 00 00
 command: EE 11 00 00
 #
-name: Unknown
+name: VOL
 protocol: NECext
 address: FC 03 00 00
 command: AE 51 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: FC 03 00 00
 command: BE 41 00 00
 #
-name: Unknown
+name: CH
 protocol: NECext
 address: FC 03 00 00
 command: DE 21 00 00

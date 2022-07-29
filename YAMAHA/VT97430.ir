@@ -74,7 +74,7 @@ protocol: NECext
 address: A1 5E 00 00
 command: AF 50 00 00
 #
-name: Unknown
+name: /
 protocol: NECext
 address: A1 5E 00 00
 command: 6F 90 00 00
@@ -89,12 +89,12 @@ protocol: NECext
 address: 61 9E 00 00
 command: AF 50 00 00
 #
-name: Unknown
+name: SEARCH
 protocol: NECext
 address: A1 5E 00 00
 command: 4F B0 00 00
 #
-name: Unknown
+name: SEARCH
 protocol: NECext
 address: A1 5E 00 00
 command: CF 30 00 00
@@ -104,22 +104,22 @@ protocol: NECext
 address: A1 5E 00 00
 command: 9F 60 00 00
 #
-name: Unknown
+name: TAPE-VCR
 protocol: NECext
 address: A1 5E 00 00
 command: FF 00 00 00
 #
-name: Unknown
+name: TAPE-VCR
 protocol: NECext
 address: A1 5E 00 00
 command: 3F C0 00 00
 #
-name: Unknown
+name: TAPE-VCR
 protocol: NECext
 address: A1 5E 00 00
 command: 7F 80 00 00
 #
-name: Unknown
+name: TAPE-VCR
 protocol: NECext
 address: A1 5E 00 00
 command: BF 40 00 00

@@ -84,7 +84,7 @@ protocol: NECext
 address: FB 04 00 00
 command: 95 6A 00 00
 #
-name: Unknown
+name: CH
 protocol: NECext
 address: FB 04 00 00
 command: DD 22 00 00
@@ -114,7 +114,7 @@ protocol: NECext
 address: FB 04 00 00
 command: 9F 60 00 00
 #
-name: Unknown
+name: CH
 protocol: NECext
 address: FB 04 00 00
 command: 47 B8 00 00

@@ -84,7 +84,7 @@ protocol: NECext
 address: 40 40 00 00
 command: 47 B8 00 00
 #
-name: Unknown
+name: CH
 protocol: NECext
 address: 40 40 00 00
 command: 2F D0 00 00
@@ -94,7 +94,7 @@ protocol: NECext
 address: 40 40 00 00
 command: 25 DA 00 00
 #
-name: Unknown
+name: VOL
 protocol: NECext
 address: 40 40 00 00
 command: 77 88 00 00
@@ -104,7 +104,7 @@ protocol: NECext
 address: 40 40 00 00
 command: 4F B0 00 00
 #
-name: Unknown
+name: VOL
 protocol: NECext
 address: 40 40 00 00
 command: F7 08 00 00
@@ -114,7 +114,7 @@ protocol: NECext
 address: 40 40 00 00
 command: 97 68 00 00
 #
-name: Unknown
+name: CH
 protocol: NECext
 address: 40 40 00 00
 command: 8F 70 00 00

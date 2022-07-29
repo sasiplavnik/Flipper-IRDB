@@ -199,12 +199,12 @@ protocol: NECext
 address: BF 80 00 00
 command: FE 01 00 00
 #
-name: Unknown
+name: FAST
 protocol: NECext
 address: BF 80 00 00
 command: 9C 63 00 00
 #
-name: Unknown
+name: FAST
 protocol: NECext
 address: BF 80 00 00
 command: 54 AB 00 00
@@ -214,12 +214,12 @@ protocol: NECext
 address: BF 80 00 00
 command: 74 8B 00 00
 #
-name: Unknown
+name: SLOW
 protocol: NECext
 address: BF 80 00 00
 command: 9E 61 00 00
 #
-name: Unknown
+name: SLOW
 protocol: NECext
 address: BF 80 00 00
 command: F6 09 00 00

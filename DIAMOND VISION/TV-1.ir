@@ -19,7 +19,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 85 7A 00 00
 #
-name: Unknown
+name: CH
 protocol: NECext
 address: FF 00 00 00
 command: 17 E8 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: FF 00 00 00
 command: A5 5A 00 00
 #
-name: Unknown
+name: CH
 protocol: NECext
 address: FF 00 00 00
 command: E7 18 00 00

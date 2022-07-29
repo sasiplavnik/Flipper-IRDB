@@ -74,12 +74,12 @@ protocol: NECext
 address: FE 00 00 00
 command: 9D 62 00 00
 #
-name: Unknown
+name: P.CALL/ALBUM
 protocol: NECext
 address: FE 00 00 00
 command: AD 52 00 00
 #
-name: Unknown
+name: SEARCH
 protocol: NECext
 address: FE 00 00 00
 command: BD 42 00 00
@@ -89,12 +89,12 @@ protocol: NECext
 address: FE 00 00 00
 command: 1D E2 00 00
 #
-name: Unknown
+name: TUNING
 protocol: NECext
 address: FE 00 00 00
 command: 47 B8 00 00
 #
-name: Unknown
+name: P.CALL/ALBUM
 protocol: NECext
 address: FE 00 00 00
 command: 87 78 00 00

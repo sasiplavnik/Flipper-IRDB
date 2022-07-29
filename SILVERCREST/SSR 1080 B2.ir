@@ -144,7 +144,7 @@ protocol: NECext
 address: CF 20 00 00
 command: 6D 92 00 00
 #
-name: Unknown
+name: INFO
 protocol: NECext
 address: CF 20 00 00
 command: 9F 60 00 00
@@ -164,17 +164,17 @@ protocol: NECext
 address: CF 20 00 00
 command: 17 E8 00 00
 #
-name: Unknown
+name: STILL
 protocol: NECext
 address: CF 20 00 00
 command: 4F B0 00 00
 #
-name: Unknown
+name: PREV
 protocol: NECext
 address: CF 20 00 00
 command: BF 40 00 00
 #
-name: Unknown
+name: NEXT
 protocol: NECext
 address: CF 20 00 00
 command: BD 42 00 00
@@ -194,7 +194,7 @@ protocol: NECext
 address: CF 20 00 00
 command: EF 10 00 00
 #
-name: Unknown
+name: FIND
 protocol: NECext
 address: CF 20 00 00
 command: 3F C0 00 00

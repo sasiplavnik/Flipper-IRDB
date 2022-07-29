@@ -114,7 +114,7 @@ protocol: NECext
 address: 01 FE 00 00
 command: C7 38 00 00
 #
-name: Unknown
+name: /
 protocol: NECext
 address: 01 FE 00 00
 command: 87 78 00 00

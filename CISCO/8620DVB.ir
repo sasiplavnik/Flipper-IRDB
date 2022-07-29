@@ -209,7 +209,7 @@ protocol: RC5
 address: 12 00 00 00
 command: AA 00 00 00
 #
-name: Unknown
+name: SLOW
 protocol: RC5
 address: 12 00 00 00
 command: 98 00 00 00

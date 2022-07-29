@@ -134,42 +134,42 @@ protocol: NECext
 address: 0E 01 00 00
 command: DE 21 00 00
 #
-name: Unknown
+name: CD
 protocol: NECext
 address: 0E 01 00 00
 command: BF 40 00 00
 #
-name: Unknown
+name: CD
 protocol: NECext
 address: 0E 01 00 00
 command: 7F 80 00 00
 #
-name: Unknown
+name: CD
 protocol: NECext
 address: 0E 01 00 00
 command: 5F A0 00 00
 #
-name: Unknown
+name: CD
 protocol: NECext
 address: 0E 01 00 00
 command: DF 20 00 00
 #
-name: Unknown
+name: Tape
 protocol: NECext
 address: 4E 41 00 00
 command: 7F 80 00 00
 #
-name: Unknown
+name: Tape
 protocol: NECext
 address: 4E 41 00 00
 command: 3F C0 00 00
 #
-name: Unknown
+name: Tape
 protocol: NECext
 address: 4E 41 00 00
 command: 5F A0 00 00
 #
-name: Unknown
+name: Tape
 protocol: NECext
 address: 4E 41 00 00
 command: DF 20 00 00

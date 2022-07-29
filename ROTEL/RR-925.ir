@@ -89,12 +89,12 @@ protocol: NECext
 address: 48 C1 00 00
 command: DF 20 00 00
 #
-name: Unknown
+name: SEA
 protocol: NECext
 address: 48 C1 00 00
 command: AF 50 00 00
 #
-name: Unknown
+name: RCH
 protocol: NECext
 address: 48 C1 00 00
 command: 87 78 00 00
@@ -104,12 +104,12 @@ protocol: NECext
 address: 48 C1 00 00
 command: FF 00 00 00
 #
-name: Unknown
+name: TRA
 protocol: NECext
 address: 48 C1 00 00
 command: 8F 70 00 00
 #
-name: Unknown
+name: CK
 protocol: NECext
 address: 48 C1 00 00
 command: A7 58 00 00

@@ -169,7 +169,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 34 CB 00 00
 #
-name: Unknown
+name: TUNER-
 protocol: NECext
 address: 7F 80 00 00
 command: AE 51 00 00
@@ -179,7 +179,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: AC 53 00 00
 #
-name: Unknown
+name: TUNER+
 protocol: NECext
 address: 7F 80 00 00
 command: B6 49 00 00

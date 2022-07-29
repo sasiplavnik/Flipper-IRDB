@@ -229,7 +229,7 @@ protocol: NECext
 address: FF 00 00 00
 command: DF 20 00 00
 #
-name: Unknown
+name: STOP
 protocol: NECext
 address: FF 00 00 00
 command: 1F E0 00 00

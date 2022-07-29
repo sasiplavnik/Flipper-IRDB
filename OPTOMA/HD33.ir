@@ -14,7 +14,7 @@ protocol: NECext
 address: CD 32 00 00
 command: B8 47 00 00
 #
-name: Unknown
+name: OFF
 protocol: NECext
 address: CD 32 00 00
 command: D1 2E 00 00

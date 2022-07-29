@@ -24,7 +24,7 @@ protocol: NECext
 address: FF 00 00 00
 command: EF 10 00 00
 #
-name: Unknown
+name: CH
 protocol: NECext
 address: FF 00 00 00
 command: BF 40 00 00
@@ -34,7 +34,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 8F 70 00 00
 #
-name: Unknown
+name: VOL
 protocol: NECext
 address: FF 00 00 00
 command: DF 20 00 00
@@ -44,7 +44,7 @@ protocol: NECext
 address: FF 00 00 00
 command: FF 00 00 00
 #
-name: Unknown
+name: VOL
 protocol: NECext
 address: FF 00 00 00
 command: 1F E0 00 00
@@ -54,7 +54,7 @@ protocol: NECext
 address: FF 00 00 00
 command: AF 50 00 00
 #
-name: Unknown
+name: CH
 protocol: NECext
 address: FF 00 00 00
 command: 9F 60 00 00

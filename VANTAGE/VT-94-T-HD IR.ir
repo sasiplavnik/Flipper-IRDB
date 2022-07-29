@@ -19,7 +19,7 @@ protocol: NECext
 address: 76 00 00 00
 command: 2F D0 00 00
 #
-name: Unknown
+name: /
 protocol: NECext
 address: 76 00 00 00
 command: BF 40 00 00

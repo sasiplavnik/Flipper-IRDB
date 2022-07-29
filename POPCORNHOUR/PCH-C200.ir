@@ -9,12 +9,12 @@ protocol: NECext
 address: D3 20 00 00
 command: AD 52 00 00
 #
-name: Unknown
+name: ON
 protocol: NECext
 address: D3 20 00 00
 command: C0 3F 00 00
 #
-name: Unknown
+name: OFF
 protocol: NECext
 address: D3 20 00 00
 command: 40 BF 00 00

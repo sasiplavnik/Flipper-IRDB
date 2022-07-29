@@ -9,7 +9,7 @@ protocol: NECext
 address: F9 00 00 00
 command: 15 EA 00 00
 #
-name: Unknown
+name: OFF
 protocol: NECext
 address: F9 00 00 00
 command: 35 CA 00 00
